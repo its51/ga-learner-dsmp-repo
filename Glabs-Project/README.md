@@ -35,7 +35,7 @@
 
 ### Approach taken to solve the problem
 
- **First We often associate the potential of a country based on the age distribution of the people residing there. I did a simple analysis of the age distribution and described the country as a young country.**/n
+ **First We often associate the potential of a country based on the age distribution of the people residing there. I did a simple analysis of the age distribution and described the country as a young country.**
 **Next The constitution of the country tries it's best to ensure that people of all races are able to live harmoniously. So I identified  the country's  minorities race by counting number of races and their count respectively so that the government can help them.**
 **Next  by comparing the education num with job average pay it is concluded that  better education leads to better job pay.**
 
