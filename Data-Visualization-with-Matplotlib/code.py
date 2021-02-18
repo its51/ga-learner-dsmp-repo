@@ -37,7 +37,8 @@ plt.xticks(rotation=45)
 
 
 # --------------
-#Code starts here
+#Code starts here let's see what's on the plate 
+#Learn visualization the classic way
 
 
 
